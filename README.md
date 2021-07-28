@@ -1,2 +1,2 @@
-# Opengl-Computer Graphics projects 
+# Opengl-Computer Graphics Projects 
 Opengl in C/C++ for xcode mac
