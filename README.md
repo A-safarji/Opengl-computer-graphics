@@ -8,6 +8,8 @@ Computer Graphics projects for mac  and for getting started with OpenGL graphics
 - macOS 
 - Xcode version 1..>= 10
 
+Or [How to use Github with Xcode11](https://medium.com/swlh/how-to-use-github-with-xcode11-8a93b64ff1bc)
+
 ## Contributing
 
 Fork it (<https://github.com/A-safarji/Opengl-Computer-Graphics.git>) 
